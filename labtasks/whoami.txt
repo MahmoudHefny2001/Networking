@@ -1,3 +1,5 @@
 name: Mahmoud Ebrahim Aly Hefny
 ID: 20-200025
-Section: 1
+section: 1
+mail: mahmoud20-00025@student.eelu.edu.eg
+
