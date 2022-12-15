@@ -1,0 +1,7 @@
+ON LINUX MACHINE
+
+get public ip address:
+	curl http://ipinfo.io/ip
+
+get private ip address:
+	ifconfig -a
